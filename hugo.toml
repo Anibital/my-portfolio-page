@@ -35,7 +35,7 @@ metaDataFormat= "yaml"
   img_title = "Me!"
   icon = "images/logo.png"
   quote = "DevOps engineer and passionate software developer."
-  description= "I really like to build automations to make my day by day easier. I am a computer engineer with experience in DevOps and Software development. If you have a cool automation idea just get in touch with me, I am always looking for new projects. "
+  description= "I enjoy building automations to make my day-to-day tasks easier. I am a computer engineer with experience in DevOps and Software development. Feel free to contact me if you have a cool automation idea. I am always looking for new projects. "
   licenseUrl = ""
 
  # Social icons
