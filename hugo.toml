@@ -60,9 +60,9 @@ metaDataFormat= "yaml"
 
 [menu]
   [[menu.main]]
-    identifier = "skils"
-    name       = "Skils"
-    url        = "skils"
+    identifier = "skills"
+    name       = "Skills"
+    url        = "skills"
 
   [[menu.main]]
     identifier = "posts"
